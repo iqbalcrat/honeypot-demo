@@ -11,7 +11,6 @@ git clone https://github.com/your-username/honeypot-demo.git
 cd honeypot-demo
 ```
 
-(Replace the URL with your actual repository URL if different.)
 
 ### 2. Create a virtual environment (recommended)
 
