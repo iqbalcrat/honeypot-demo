@@ -16,13 +16,13 @@ cd honeypot-demo
 ### 2. Create a virtual environment (recommended)
 
 ```bash
-python -m venv .venv
+python -m venv venv
 ```
 
 Activate it:
 
-- **Windows (Cmd):** `.venv\Scripts\activate.bat`
-- **Windows (PowerShell):** `.venv\Scripts\Activate.ps1`
+- **Windows (Cmd):** `venv\Scripts\activate.bat`
+- **Windows (PowerShell):** `venv\Scripts\Activate.ps1`
 
 ### 3. Install dependencies
 
