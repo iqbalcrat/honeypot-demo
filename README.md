@@ -4,11 +4,14 @@ A simple Flask app with login, registration, and a clean UI. Uses SQLite for sto
 
 ## Run on your local machine
 
-### 1. Clone or open the project
+### 1. Clone the repository
 
 ```bash
+git clone https://github.com/your-username/honeypot-demo.git
 cd honeypot-demo
 ```
+
+(Replace the URL with your actual repository URL if different.)
 
 ### 2. Create a virtual environment (recommended)
 
@@ -18,7 +21,6 @@ python -m venv .venv
 
 Activate it:
 
-- **macOS / Linux:** `source .venv/bin/activate`
 - **Windows (Cmd):** `.venv\Scripts\activate.bat`
 - **Windows (PowerShell):** `.venv\Scripts\Activate.ps1`
 
